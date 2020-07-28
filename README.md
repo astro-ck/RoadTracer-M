@@ -19,7 +19,12 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
->📋 For generating the **dataset**, please refer to [RoadTracer](https://github.com/mitroadmaps/roadtracer) for more details.
+For generating the **dataset**, please refer to [RoadTracer](https://github.com/mitroadmaps/roadtracer) for more details.
+
+## Structure
+
+- **Corner/corner_detection.py** : generating the starting points for further road tracing.
+- **Tracer/**: tracing the road centerline from these starting points. Some of them are modified from [RoadTracer](https://github.com/mitroadmaps/roadtracer).
 
 ## Training
 
@@ -34,5 +39,5 @@ python train.py --input-data <path_to_data> --alpha 10 --beta 20
 
 ## Contributing
 
-- [yao WEI]()
-- [kai ZHANG]()
+- [yao WEI](https://github.com/weiyao1996)
+- [kai ZHANG](https://github.com/SummerOf15)
