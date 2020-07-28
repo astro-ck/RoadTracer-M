@@ -1,6 +1,6 @@
 # RoadTracer-M
 
-This repository is the official implementation of '[ROAD NETWORK EXTRACTION FROM SATELLITE IMAGES USING CNN BASED SEGMENTATION AND TRACING](https://ieeexplore.ieee.org/abstract/document/8898565)'(IGARSS 2019). 
+This repository is the official implementation of the paper'[ROAD NETWORK EXTRACTION FROM SATELLITE IMAGES USING CNN BASED SEGMENTATION AND TRACING](https://ieeexplore.ieee.org/abstract/document/8898565)'(IGARSS 2019). 
 
 ## Pipeline 
 
