@@ -41,3 +41,16 @@ python train.py --input-data <path_to_data> --alpha 10 --beta 20
 
 - [yao WEI](https://github.com/weiyao1996)
 - [kai ZHANG](https://github.com/SummerOf15)
+
+
+## Citation
+
+If you find our work useful in your research, please cite:
+
+```@INPROCEEDINGS{8898565,
+  author={Wei, Yao and Zhang, Kai and Ji, Shunping},
+  title={Road Network Extraction from Satellite Images Using CNN Based Segmentation and Tracing}, 
+  booktitle={IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium}, 
+  year={2019},
+  pages={3923-3926},}
+```
